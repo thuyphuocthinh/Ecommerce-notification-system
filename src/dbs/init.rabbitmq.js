@@ -63,3 +63,4 @@ module.exports = {
 // channel khác gì với queue
 // channel assertQueue là gì
 // channel consume là gì
+// DLE = dead letter exchanges
